@@ -4,6 +4,13 @@
 #include <stdio.h>
 /* more headers goes there */
 
+/**
+ *main - assigns random nubet to int n: print positive or negative
+ *Description:Print either Positive or negative
+ *Return: Always 0 (Success)
+ */
+
+
 /* betty style doc for function main goes there */
 int main(void)
 {
@@ -22,7 +29,7 @@ int main(void)
 	}
 	else
 	{
-		printf("%d is negative\n", n);
+		printf("%d is zero\n", n);
 	}
 	return (0);
 }
