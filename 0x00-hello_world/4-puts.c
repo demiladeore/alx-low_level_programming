@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 /**
 * main - functioin that prints a string
 * Description - Prints a string using puts not printf
@@ -5,6 +7,6 @@
 */
 int main(void)
 {
-	puts("Programming is like building a multilingual puzzle\n")
+	puts("Programming is like building a multilingual puzzle\n");
 	return (0);
 }
