@@ -4,7 +4,7 @@
 /**
 * mul - Multiply two inegers
 * @a: first func argument
-* @b: secong function argument 
+* @b: secong function argument
 * Return: Always 0
 */
 
